@@ -6,11 +6,11 @@ function App() {
     <>
       <h1>My portfolio</h1>
       <p>Welcome to my portfolio</p>
-      <p>Fullname : Rattanabucha Nattawut</p>
+      <p>Fullname : Nattawut Rattanabucha</p>
       <p>Nickname : Tan</p>
-      <p>Skills : HTML , CSS , JavaScript</p>
+      <p>Skills : HTML , C++ , CSS , JavaScript</p>
       <img src={cat} alt="cat" width={100} />
-      <p>Bye Bye</p>
+      <p>Yoyoyoyoyo</p>
     </>
   )
 }
