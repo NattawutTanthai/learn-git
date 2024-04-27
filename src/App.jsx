@@ -11,6 +11,7 @@ function App() {
       <p>Skills : HTML , CSS , JavaScript</p>
       <img src={cat} alt="cat" width={100} />
       <p>Bye Bye</p>
+      <p>Bye2 Bye2</p>
     </>
   )
 }
