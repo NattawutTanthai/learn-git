@@ -10,7 +10,12 @@ function App() {
       <p>Nickname : Tan</p>
       <p>Skills : HTML , C++ , CSS , JavaScript</p>
       <img src={cat} alt="cat" width={100} />
+<<<<<<< HEAD
       <p>Yoyoyoyoyo</p>
+=======
+      <p>Bye Bye</p>
+      <p>Bye2 Bye2</p>
+>>>>>>> detailMore
     </>
   )
 }
